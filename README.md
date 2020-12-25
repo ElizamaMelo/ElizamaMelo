@@ -7,7 +7,7 @@
 <h4>I'm Elizama,  software engineer with 2 years of experience
  from Brasil, currently living in Valencia - Spain  📍</h4>
 
-<h5>⚡ I am also the mother of a beautiful boy, married  and I am super fun, seriously! 😁⚡</h5>
+<h5>⚡ I am also mother of a beautiful boy, married, music and travel lover! ✈⚡</h5>
 
 <h2>Tech skills and abilities: <img aligh="left" alt="sobre a imagem" src="https://emojis.slackmojis.com/emojis/images/1598815727/10343/arrow-down.gif?1598815727" width="30"/> </h2> 
 
