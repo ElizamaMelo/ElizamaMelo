@@ -4,7 +4,7 @@
 
 <h2>Welcome to my GitHub,</2>
 
-<h4>I'm Elizama,  software engineer with 2 years of experience
+<h4>I'm Elizama,  software engineer with 1 year of experience
  from Brasil, currently living in Valencia - Spain  📍</h4>
 
 <h5>⚡ I am also mother of a beautiful boy, married, music and travel lover! ✈⚡</h5>
