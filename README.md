@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/-Rest-yellowgreen" />
 <img src="https://img.shields.io/badge/-Domain--Drive%20Design-lightgrey" />
 
-<h4>🌱 I am currently studying JavaScript, Html and CSS.</h4>
+<
 
 <h2>Where you can find me 📬</h2>
 
