@@ -2,15 +2,16 @@
   
  
 
-<h2>Welcome to my GitHub,</2>
+<h2>Welcome to my GitHub,</h2>
 
-<h4>I'm Elizama
-💻 Software developer with 4 years of experience in back-end development, working with Java, Spring Boot, and microservices architecture.
-✨ Passionate about building scalable and secure RESTful APIs, always applying clean code, component reuse, and performance optimization.
-🚀 Experienced in Agile/Scrum teams, continuous integration and delivery (CI/CD) with Jenkins, and cloud orchestration using OpenShift, Docker, and Kubernetes.
-🔧 Strong background in GitLab, automated testing, and DevOps practices, focused on improving both software quality and delivery speed.
-  
-  Currently living in Spain  📍</h4>
+<h4>
+I'm Elizama <br/><br/>
+💻 Software developer with 4 years of experience in back-end development, working with Java, Spring Boot, and microservices architecture. <br/><br/>
+✨ Passionate about building scalable and secure RESTful APIs, always applying clean code, component reuse, and performance optimization. <br/><br/>
+🚀 Experienced in Agile/Scrum teams, continuous integration and delivery (CI/CD) with Jenkins, and cloud orchestration using OpenShift, Docker, and Kubernetes. <br/><br/>
+🔧 Strong background in GitLab, automated testing, and DevOps practices, focused on improving both software quality and delivery speed. <br/><br/>
+📍 Currently living in Spain
+</h4>
 
 <h2>Tech skills and abilities: <img aligh="left" alt="sobre a imagem" src="https://emojis.slackmojis.com/emojis/images/1598815727/10343/arrow-down.gif?1598815727" width="30"/> </h2> 
 
