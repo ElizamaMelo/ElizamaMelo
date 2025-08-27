@@ -42,9 +42,9 @@ I'm Elizama <br/><br/>
 <img src="https://img.shields.io/badge/-OpenShift-EE0000" />
 <img src="https://img.shields.io/badge/-Cloud-lightblue" />
 <img src="https://img.shields.io/badge/-DevOps-cyan" />
-<img src="https://img.shields.
+<img src="https://img.shields.io/badge/-Automated%20Testing-brightgreen" />
 
-
+</h5>
 
 <h2>Where you can find me 📬</h2>
 
