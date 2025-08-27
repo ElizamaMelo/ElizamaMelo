@@ -24,12 +24,16 @@ I'm Elizama <br/><br/>
 <img src="https://img.shields.io/badge/-LiquiBase-orange" />
 <img src="https://img.shields.io/badge/Spring-%20Data%20JPA-red" />
 <img src="https://img.shields.io/badge/-JUnit-brightgreen" />
+<img src="https://img.shields.io/badge/-Maven-C71A36" />
 <img src="https://img.shields.io/badge/HTML%2FCSS%2F-Bootstrap-blue" />
 <img src="https://img.shields.io/badge/-MySQL-blueviolet" />
+<img src="https://img.shields.io/badge/-REST%20APIs-yellowgreen" />
+<img src="https://img.shields.io/badge/-Swagger-85EA2D" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37" />
+<img src="https://img.shields.io/badge/-Microservices%20Architecture-lightgrey" />
+<img src="https://img.shields.io/badge/-Domain--Driven%20Design-lightgrey" />
 <img src="https://img.shields.io/badge/-GIT-black" />
 <img src="https://img.shields.io/badge/-GitLab-orange" />
-<img src="https://img.shields.io/badge/-REST%20APIs-yellowgreen" />
-<img src="https://img.shields.io/badge/-Domain--Driven%20Design-lightgrey" />
 <img src="https://img.shields.io/badge/-Agile%2FScrum-blue" />
 <img src="https://img.shields.io/badge/-CI%2FCD-green" />
 <img src="https://img.shields.io/badge/-Jenkins-red" />
@@ -38,9 +42,7 @@ I'm Elizama <br/><br/>
 <img src="https://img.shields.io/badge/-OpenShift-EE0000" />
 <img src="https://img.shields.io/badge/-Cloud-lightblue" />
 <img src="https://img.shields.io/badge/-DevOps-cyan" />
-<img src="https://img.shields.io/badge/-Automated%20Testing-brightgreen" />
-
-</h5>
+<img src="https://img.shields.
 
 
 
@@ -50,13 +52,4 @@ I'm Elizama <br/><br/>
          <img alt="Qries" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/elizama-melo-27150145">
       </a>
  
-
-<h2>GitHub Stats</h2>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=ElizamaMelo&show_icons=true&theme=dracula" alt="Elizama's github stats" />
-
-
-
-
 
