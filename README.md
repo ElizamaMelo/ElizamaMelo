@@ -13,7 +13,7 @@ I'm Elizama <br/><br/>
 📍 Currently living in Spain
 </h4>
 
-<h2>Tech skills and abilities: <img aligh="left" alt="sobre a imagem" src="https://emojis.slackmojis.com/emojis/images/1598815727/10343/arrow-down.gif?1598815727" width="30"/> </h2> 
+<h2>Tech skills and abilities: <img align="left" alt="arrow down" src="https://emojis.slackmojis.com/emojis/images/1598815727/10343/arrow-down.gif?1598815727" width="30"/> </h2> 
 
 <h5>
 
@@ -27,10 +27,22 @@ I'm Elizama <br/><br/>
 <img src="https://img.shields.io/badge/HTML%2FCSS%2F-Bootstrap-blue" />
 <img src="https://img.shields.io/badge/-MySQL-blueviolet" />
 <img src="https://img.shields.io/badge/-GIT-black" />
-<img src="https://img.shields.io/badge/-Rest-yellowgreen" />
-<img src="https://img.shields.io/badge/-Domain--Drive%20Design-lightgrey" />
+<img src="https://img.shields.io/badge/-GitLab-orange" />
+<img src="https://img.shields.io/badge/-REST%20APIs-yellowgreen" />
+<img src="https://img.shields.io/badge/-Domain--Driven%20Design-lightgrey" />
+<img src="https://img.shields.io/badge/-Agile%2FScrum-blue" />
+<img src="https://img.shields.io/badge/-CI%2FCD-green" />
+<img src="https://img.shields.io/badge/-Jenkins-red" />
+<img src="https://img.shields.io/badge/-Docker-blue" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5" />
+<img src="https://img.shields.io/badge/-OpenShift-EE0000" />
+<img src="https://img.shields.io/badge/-Cloud-lightblue" />
+<img src="https://img.shields.io/badge/-DevOps-cyan" />
+<img src="https://img.shields.io/badge/-Automated%20Testing-brightgreen" />
 
-<
+</h5>
+
+
 
 <h2>Where you can find me 📬</h2>
 
